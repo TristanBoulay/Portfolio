@@ -1,21 +1,29 @@
-header
-{
+header {
   background-color: rgb(71, 128, 233);
- 
-  
 }
-h1
-{
-  color: aliceblue;
+h1 {
+  color: white;
 }
-footer
-{
-  background-color: rgb(21, 65, 146) ;
+footer {
+  background-color: rgb(21, 65, 146);
 }
-.custom_title
-{
+.custom_title {
   background-color: rgb(13, 238, 163);
   color: #fff;
 }
+.custom_title2 {
+  background-color: rgb(13, 238, 163);
+  color: rgb(10, 3, 3);
+}
 
+.white_text {
+  color: #fff;
+}
 
+.header_description{
+}
+
+.header_image{
+margin-top: 10px;
+background-color: aqua;
+}
