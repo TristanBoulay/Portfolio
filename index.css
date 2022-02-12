@@ -1,8 +1,12 @@
+p {
+  margin: 0px;
+}
 header {
-  background-color: rgb(71, 128, 233);
+  background-color: #7451eb;
 }
 h1 {
   color: white;
+  font-family: perpetua sans-serif;
 }
 footer {
   background-color: rgb(21, 65, 146);
@@ -24,7 +28,32 @@ footer {
   padding: 20px;
 }
 
-.header_image{
-margin-top: 10px;
-background-color: aqua;
+.header_image img {
+height:100% ;
+}
+
+.skills {
+  display: flex;
+  padding: 0 50px;
+  height : 500px ;
+ 
+}
+.skills2 {
+  font-size: 200px ; 
+}
+.skills3 {
+  padding: 50px;
+}
+.tristan {
+  justify-content: space-between;
+  padding-left: 30px;
+}
+.centered {
+  display: flex;  
+  justify-content: center;
+  align-items: center;
+}
+.reseaux{
+  text-align: left;
+  padding-left: 50px;
 }
